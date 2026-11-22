@@ -1,0 +1,11 @@
+.terraform/
+*.tfstate
+*.tfstate.*
+*.tfplan
+*.tfvars.json
+archiver-function.zip
+demo.zip
+crash.log
+crash.*.log
+.venv/
+__pycache__/
